@@ -2,7 +2,9 @@
 
 Report and ipynb file inside zip
 [Capstone Paper.docx](https://github.com/Jason-B-Ang/Equity-Index-Derivatives-Weighting-Arbitrage-and-Research-Dashboard-/files/10569875/Capstone.Paper.docx)
-Source file: https://github.com/Jason-B-Ang/Equity-Index-Derivatives-Weighting-Arbitrage-and-Research-Dashboard-/blob/main/Equity-Index%20Derivatives%20Weighting%2C%20Arbitrage%2C%20and%20Risk-Management%20Dashboard%20(Edward).ipynb
+
+  [zip file](https://github.com/Jason-B-Ang/Equity-Index-Derivatives-Weighting-Arbitrage-and-Research-Dashboard-/blob/main/MAD2502%20Capstone.zip)
+  
 Equity-Index Derivatives Weighting, Arbitrage, and Research Dashboard 
 By: Jason Ang, Ezzard Bradford, and Douglas Harrison 
 
