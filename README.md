@@ -1,7 +1,8 @@
 # Equity-Index-Derivatives-Weighting-Arbitrage-and-Research-Dashboard-
 
 Report and ipynb file inside zip
-[Capstone Paper.docx](https://github.com/Jason-B-Ang/Equity-Index-Derivatives-Weighting-Arbitrage-and-Research-Dashboard-/files/10569875/Capstone.Paper.docx)
+
+[Report](https://github.com/Jason-B-Ang/Equity-Index-Derivatives-Weighting-Arbitrage-and-Research-Dashboard-/files/10569875/Capstone.Paper.docx)
 
   [zip file](https://github.com/Jason-B-Ang/Equity-Index-Derivatives-Weighting-Arbitrage-and-Research-Dashboard-/blob/main/MAD2502%20Capstone.zip)
   
